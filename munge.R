@@ -70,3 +70,23 @@ ggplot(adop %>% filter(location == "United States"),
 
 
 
+
+
+# ------ Census ------
+# Whitepaper 
+# https://www.census.gov/prod/2014pubs/p20-572.pdf
+# https://www.census.gov/prod/cen2010/briefs/c2010br-14.pdf
+# All data 
+# https://www2.census.gov/census_2010/04-Summary_File_1/
+# Data dictionary
+# https://www.census.gov/prod/cen2010/doc/sf1.pdf
+
+
+
+
+
+
+
+
+
+
